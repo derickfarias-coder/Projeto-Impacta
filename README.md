@@ -16,6 +16,7 @@ Transformar dados públicos do SUS em informações visuais e indicadores que pe
 - SQL
 - CSV
 - GitHub
+- Git
 
 ## AC1 — Panorama dos Leitos Hospitalares do SUS
 
