@@ -102,8 +102,7 @@ Para este projeto foi utilizado o recurso **Leitos 2026**, disponibilizado em fo
 - [x] **AC1** — Panorama dos Leitos Hospitalares do SUS
 - [ ] **AC2** — Próxima análise
 - [ ] **AC3** — Próxima análise
-- [ ] **AC4** — Próxima análise
-- [ ] **Prova** — Análise final
+- [ ] **AC4** — Análise final
 
 ## 👨‍💻 Autor
 
