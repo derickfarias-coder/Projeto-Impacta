@@ -27,12 +27,9 @@ GO
 ----------------------------------------------------------------------------------------- */
 ;WITH base AS (
  SELECT
- DATA = DATEFROMPARTS(
- CAST(LEFT(COMP, 4) AS INT),
- CAST(RIGHT(COMP, 2) AS INT),
- 1
- ),
- PAIS = 'Brasil'
+ DATA = DATEFROMPARTS(CAST(LEFT(COMP, 4) AS INT),CAST(RIGHT(COMP, 2) AS INT),1
+ )
+ ,PAIS = 'Brasil'
  ,REGIAO
  ,UF
  ,ESTADO = CASE UF
