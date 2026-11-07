@@ -54,9 +54,80 @@ Os indicadores e gráficos são atualizados dinamicamente conforme os filtros se
 - Gráfico de barras com os leitos SUS por natureza jurídica
 - Ranking dos estados com maior quantidade de leitos SUS
 
-### Vídeo de apresentação da AC1
+## AC2 — Perfil e Distribuição dos Leitos Hospitalares do SUS
 
-> Assistir à apresentação da AC1 no YouTube: ""
+A segunda entrega do projeto tem como foco a **análise do perfil e da distribuição dos leitos hospitalares do SUS no Brasil**, permitindo compreender como a estrutura hospitalar está distribuída entre os diferentes tipos de estabelecimentos, especialidades e naturezas jurídicas.
+
+### Principais indicadores
+
+- Total de Estabelecimentos de Saúde
+- Estabelecimentos com Leitos SUS
+- Média de Leitos SUS por Estabelecimento
+- Leitos SUS por Tipo de Unidade
+- Leitos SUS por Especialidade
+- Leitos SUS por Natureza Jurídica
+- Participação dos Estabelecimentos Públicos e Privados
+- Distribuição dos Leitos por Região
+- Distribuição dos Leitos por Município
+
+### Filtros disponíveis
+
+- Data
+- Região
+- UF
+- Município
+- Natureza Jurídica
+- Tipo de Unidade
+- Tipo de Leito
+
+Os indicadores e gráficos são atualizados dinamicamente conforme os filtros selecionados.
+
+### Visualizações
+
+- Cards com os principais indicadores de estabelecimentos e leitos
+- Gráfico de barras com a quantidade de leitos por tipo de unidade
+- Gráfico de barras com a distribuição de leitos por especialidade
+- Gráfico de rosca comparando a participação dos estabelecimentos públicos e privados
+- Gráfico de barras com a média de leitos SUS por estabelecimento
+- Gráfico de barras com a distribuição dos leitos SUS por região
+- Ranking dos municípios com maior quantidade de leitos SUS
+
+---
+
+## AC3 — Evolução e Movimentação dos Leitos Hospitalares do SUS
+
+A terceira entrega do projeto tem como foco a **análise da evolução e da movimentação dos leitos hospitalares do SUS no Brasil**, identificando as entradas, saídas, ampliações e reduções na capacidade hospitalar ao longo dos períodos analisados.
+
+### Principais indicadores
+
+- Total de Leitos no Período
+- Leitos Adicionados
+- Leitos Ampliados
+- Leitos Reduzidos
+- Leitos de Estabelecimentos que Entraram na Base
+- Leitos de Estabelecimentos que Saíram da Base
+- Saldo Líquido de Leitos
+- Estabelecimentos com Alteração na Quantidade de Leitos
+- Evolução Mensal dos Leitos
+
+### Filtros disponíveis
+
+- Data
+- Região
+- UF
+- Município
+- Natureza Jurídica
+- Tipo de Unidade
+
+Os indicadores e gráficos são atualizados dinamicamente conforme os filtros selecionados.
+
+### Visualizações
+
+- Cards com os principais indicadores de movimentação dos leitos
+- Gráfico de barras com a movimentação de leitos, separando entradas, ampliações, reduções e saídas
+- Gráfico de barras com a variação líquida de leitos por Unidade Federativa
+- Gráfico de colunas com a quantidade de estabelecimentos por tipo de movimentação
+- Gráfico de linha com a evolução mensal do saldo de leitos hospitalares
 
 ## Estrutura do Projeto
 
