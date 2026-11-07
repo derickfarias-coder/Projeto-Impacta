@@ -72,6 +72,7 @@ Projeto_Impacta
 ├── PowerBI
 │   └── Projeto_Impacta_AC1
 │   └── Projeto_Impacta_AC2
+│   └── Projeto_Impacta_AC3
 │
 └── README.md
 ```
@@ -102,7 +103,7 @@ Para este projeto foi utilizado o recurso **Leitos 2026**, disponibilizado em fo
 
 - [x] **AC1** — Panorama dos Leitos Hospitalares do SUS
 - [x] **AC2** — Estrutura da Rede Hospitalar do SUS
-- [ ] **AC3** — Próxima análise
+- [x] **AC3** — Evolução e Movimentação dos Leitos Hospitalares
 - [ ] **AC4** — Análise final
 
 ## 👨‍💻 Autor
