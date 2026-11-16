@@ -92,8 +92,6 @@ Os indicadores e gráficos são atualizados dinamicamente conforme os filtros se
 - Gráfico de barras com a distribuição dos leitos SUS por região
 - Ranking dos municípios com maior quantidade de leitos SUS
 
----
-
 ## AC3 — Evolução e Movimentação dos Leitos Hospitalares do SUS
 
 A terceira entrega do projeto tem como foco a **análise da evolução e da movimentação dos leitos hospitalares do SUS no Brasil**, identificando as entradas, saídas, ampliações e reduções na capacidade hospitalar ao longo dos períodos analisados.
@@ -129,6 +127,37 @@ Os indicadores e gráficos são atualizados dinamicamente conforme os filtros se
 - Gráfico de colunas com a quantidade de estabelecimentos por tipo de movimentação
 - Gráfico de linha com a evolução mensal do saldo de leitos hospitalares
 
+## AC4 — Distribuição Territorial e Concentração dos Leitos Hospitalares do SUS
+
+A quarta e última entrega do projeto tem como foco a **análise da distribuição territorial e da concentração dos leitos hospitalares do SUS no Brasil**, identificando as diferenças na oferta de leitos entre municípios, estados e regiões brasileiras, além de investigar a concentração da capacidade hospitalar nos principais polos de atendimento.
+
+### Principais indicadores
+
+- Total de Leitos Hospitalares do SUS
+- Quantidade de Municípios com Oferta de Leitos
+- Média de Leitos por Município
+- Participação dos 10 Municípios com Maior Oferta de Leitos
+- Percentual Acumulado da Oferta de Leitos
+
+### Filtros disponíveis
+
+- Data
+- Região
+- UF
+- Município
+- Natureza Jurídica
+- Tipo de Unidade
+
+Os indicadores e gráficos são atualizados dinamicamente conforme os filtros selecionados.
+
+### Visualizações
+
+- **Gráfico de barras com os 10 municípios com maior quantidade de leitos hospitalares do SUS**, identificando os principais polos de concentração da oferta.
+- **Gráfico de distribuição dos leitos por região brasileira**, permitindo comparar a participação das regiões Norte, Nordeste, Centro-Oeste, Sudeste e Sul.
+- **Gráfico de barras com os 10 estados com maior quantidade de leitos**, destacando as Unidades Federativas com maior oferta hospitalar.
+- **Gráfico de rosca com a participação dos 10 municípios com maior oferta de leitos em relação aos demais municípios**, evidenciando o nível de concentração territorial.
+- **Gráfico de linha com a concentração acumulada dos leitos hospitalares**, identificando quantos municípios são necessários para representar 80% da oferta total.
+
 ## Estrutura do Projeto
 
 ```text
@@ -144,6 +173,7 @@ Projeto_Impacta
 │   └── Projeto_Impacta_AC1
 │   └── Projeto_Impacta_AC2
 │   └── Projeto_Impacta_AC3
+│   └── Projeto_Impacta_AC4
 │
 └── README.md
 ```
@@ -175,7 +205,7 @@ Para este projeto foi utilizado o recurso **Leitos 2026**, disponibilizado em fo
 - [x] **AC1** — Panorama dos Leitos Hospitalares do SUS
 - [x] **AC2** — Estrutura da Rede Hospitalar do SUS
 - [x] **AC3** — Evolução e Movimentação dos Leitos Hospitalares
-- [ ] **AC4** — Análise final
+- [x] **AC4** — Distribuição Territorial e Concentração dos Leitos Hospitalares do SUS
 
 ## 👨‍💻 Autor
 
